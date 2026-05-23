@@ -1,0 +1,13 @@
+FirstName,LastName,Username,Email,JobTitle,Department
+John,Smith,jsmith,jsmith@lab.local,Systems Administrator,IT
+Maria,Jones,mjones,mjones@lab.local,IT Manager,IT
+Brian,Williams,bwilliams,bwilliams@lab.local,Help Desk Technician,IT
+Sarah,Johnson,sjohnson,sjohnson@lab.local,HR Manager,HR
+Kevin,Brown,kbrown,kbrown@lab.local,HR Specialist,HR
+Lisa,Davis,ldavis,ldavis@lab.local,Financial Analyst,Finance
+Robert,Miller,rmiller,rmiller@lab.local,Finance Manager,Finance
+Amanda,Wilson,awilson,awilson@lab.local,Accountant,Finance
+James,Moore,jmoore,jmoore@lab.local,Sales Manager,Sales
+Patricia,Taylor,ptaylor,ptaylor@lab.local,Sales Representative,Sales
+Michael,Anderson,manderson,manderson@lab.local,Sales Representative,Sales
+Linda,Thomas,lthomas,lthomas@lab.local,Account Executive,Sales
